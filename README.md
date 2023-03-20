@@ -26,6 +26,8 @@
     ``` 
     python test_demo.py --data_dir [path to your data dir] --save_dir [path to your save dir] --log_path [path to your save log] --hybrid_test --model_id 27 
     ```
+3. Check the results at the data_dir (--data_dir [path to your data dir]).
+
 
 ## Contact
 If you have any questions, please contact zyr@mail.ustc.edu.cn
